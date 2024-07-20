@@ -26,7 +26,7 @@ is weird.
 
 ## Built-in Types
 
-I hate the fact that `int8` is `i8` and `float32` is `f32`. What's wrong with spelling them out?
+I hate that `int8` is `i8` and `float32` is `f32`. What's wrong with spelling them out?
 And why wouldn't `char` be `c` and `bool` be `b`?
 
 ## Loop
