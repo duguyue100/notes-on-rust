@@ -88,3 +88,16 @@ chapter here.
 ```
 How does this make sense to anyone?
 
+## Named Structs
+
+```rust
+let jackie = Person { name: String::from("Jackie"), ..avery };
+```
+
+Copying the majority of the fields without having explicitly type it all out is a good thing.
+But `..avery` looks strange no?
+
+## Enums
+
+I'm not very familiar with the power of `enum` and `struct`, should take more exercises to learn the best practice.
+Also, now I understand that there is no `class` implemented in Rust, so this is all we got.
